@@ -52,6 +52,7 @@
         "common-classes": "Common classes",
         "implementation": "Implementation",
         "find-by-field-feature": "Find by field feature",
+        "view-student-feature": "View student feature",
         "mark-payment-status-feature": "Mark payment status feature",
         "mark-attendance-feature": "Mark attendance feature",
         "list-attendance-feature": "List attendance feature",
