@@ -53,6 +53,7 @@
         "implementation": "Implementation",
         "find-by-field-feature": "Find by field feature",
         "mark-payment-status-feature": "Mark payment status feature",
+        "mark-attendance-feature": "Mark attendance feature",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
