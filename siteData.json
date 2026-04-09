@@ -58,6 +58,8 @@
         "list-attendance-feature": "List attendance feature",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
+        "proposed-monthly-payment-tracking": "[Proposed] Monthly payment tracking",
+        "proposed-lesson-duration": "[Proposed] Lesson duration",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
@@ -70,10 +72,12 @@
         "adding-a-student": "Adding a student",
         "marking-payment-status": "Marking payment status",
         "adding-editing-a-remark": "Adding/editing a remark",
-        "finding-students": "Finding students",
-        "deleting-a-person": "Deleting a person",
         "marking-attendance": "Marking attendance",
         "viewing-attendance": "Viewing attendance",
+        "finding-students": "Finding students",
+        "deleting-a-person": "Deleting a person",
+        "marking-attendance-2": "Marking attendance",
+        "viewing-attendance-2": "Viewing attendance",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
