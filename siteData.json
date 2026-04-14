@@ -40,7 +40,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "tutor-central-developer-guide": "Tutor Central Developer Guide",
+        "tutorcentral-developer-guide": "TutorCentral Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
