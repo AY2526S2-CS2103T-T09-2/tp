@@ -41,6 +41,7 @@
       "title": "Developer Guide",
       "headings": {
         "tutorcentral-developer-guide": "TutorCentral Developer Guide",
+        "table-of-contents": "Table of Contents",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -129,12 +130,14 @@
       "title": "User Guide",
       "headings": {
         "tutorcentral-user-guide": "TutorCentral User Guide",
+        "table-of-contents": "Table of Contents",
         "key-features": "Key Features",
         "using-this-guide": "Using this guide",
         "useful-notations-and-glossary": "Useful Notations and Glossary",
         "notes-for-users": "Notes for Users",
         "quick-start": "Quick start",
         "features": "Features",
+        "parameter-constraints": "Parameter constraints",
         "viewing-help-help": "Viewing help : help",
         "adding-a-student-add": "Adding a student: add",
         "listing-all-students-list": "Listing all students : list",
